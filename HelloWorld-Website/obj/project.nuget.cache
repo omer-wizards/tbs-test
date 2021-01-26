@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8oINd5yEJ+nk4EkS1vnTYfDKGDKriSM+HobtS8U7bb+YVvWmWmvLipsUDrJcJBeFQFk1cwW8hoszKKiSHQYj/Q==",
+  "success": true,
+  "projectFilePath": "E:\\Work\\Wizards Integration\\repos\\tbs-test\\HelloWorld-Website\\HelloWorld-Website.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omer\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
